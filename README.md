@@ -1,4 +1,4 @@
-# similar_science
+# pseudo_science
 
 ## 데이터 수집 동기
 > 어느날 우연히 YouTube에서 「[유사과학 들으면 토하는 로봇](https://youtu.be/URaLCCtM1WQ)」이라는 주제로 한 프로젝트를 발견하였다.
